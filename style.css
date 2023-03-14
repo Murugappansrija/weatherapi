@@ -1,0 +1,42 @@
+body{
+    background: lightblue;
+    color: black;   
+    
+}
+
+.card-top {
+    width: 350px;
+    height: 250px;   
+    padding: 50px;
+}
+
+.card-header {
+    display: flex;
+    justify-content: center;
+    font-family: cambria;
+    background: black;
+    color: white;
+}
+
+.card-body {
+   background: gray;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.text-center{ 
+   text-align: center;
+    
+}
+
+.imgDiv{
+    display: flex;
+    justify-content: center;
+   background: lightseagreen;
+}
